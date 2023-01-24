@@ -28,6 +28,7 @@ for (int i = 0; i < massive.Length; i++)
         count++;
     }
 }
+
 for (int i = 0; i < count; i++)
 {
     System.Console.WriteLine(massive1[i]);    
